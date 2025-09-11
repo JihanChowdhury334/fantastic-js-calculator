@@ -36,9 +36,6 @@ calculator/
 - Clear button toggles between `CE` and `AC` based on context  
 - Active operator button gets `.is-depressed` styling for clear user feedback
 
-## 🎨 Preview
-(Add a screenshot or GIF of the calculator UI once deployed)
-
 ## 📦 Setup & Usage
 1. Clone or download this repository  
 2. Open `index.html` in your browser  
