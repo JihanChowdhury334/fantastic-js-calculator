@@ -22,7 +22,7 @@ Created to practice **DOM manipulation, event handling, state management, and re
 
 ## 📂 Project Structure
 ```
-calculator/
+fantastic-js-calculator/
 ├── index.html   # HTML structure
 ├── style.css    # Styles and animations
 └── script.js    # Calculator functionality
